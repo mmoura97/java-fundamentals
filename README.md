@@ -1,4 +1,3 @@
-# java-fundamentals
 # ☕ Java Fundamentals
 
 Este repositório contém exercícios práticos desenvolvidos durante meus estudos iniciais em Java.
