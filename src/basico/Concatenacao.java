@@ -1,4 +1,4 @@
-public class Cocatenacao {
+public class Concatenacao {
     public static void main(String[] args) {
         String saudacao = "Olá, meu nome é ";
         String nome = "Alice ";

@@ -1,4 +1,4 @@
-public class CastdeVariaveis {
+public class CastingDeVariaveis {
     public static void main(String[] args) {
         double tipodouble = 10.95;
         int numeroInt = (int) tipodouble;

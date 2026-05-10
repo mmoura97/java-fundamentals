@@ -1,4 +1,4 @@
-public class MediaDeNotes {
+public class MediaDeNotas {
     public static void main(String[] args) {
         double nota1 = 9.5;
         double nota2 = 8.5;
