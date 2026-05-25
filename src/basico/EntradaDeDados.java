@@ -11,7 +11,7 @@ public class EntradaDeDados {
         System.out.println("Digite o valor que pretende investir esse mês: ");
         double valorInvestimento = scanner.nextDouble();
 
-        System.out.println(nome + "que tem " + idade + "anos,irá investir R$" + valorInvestimento + " esse mẽs.");
+        System.out.println(nome + " que tem " + idade + " anos,irá investir R$" + valorInvestimento + " esse mẽs.");
 
         scanner.close();
     }
