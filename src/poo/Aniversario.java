@@ -1,4 +1,6 @@
-class Pessoa {
+
+
+class Pessoas {
     String nome;
     int idade;
 
@@ -10,7 +12,7 @@ class Pessoa {
 
 public class Aniversario {
     public static void main(String[] args) {
-        Pessoa pessoa1 = new Pessoa();
+        Pessoas pessoa1 = new Pessoas();
 
         pessoa1.nome = "Maria";
         pessoa1.idade = 20;
@@ -19,7 +21,7 @@ public class Aniversario {
         pessoa1.fazAniversario();
         System.out.println("A idade agora é: " + pessoa1.idade);
 
-        Pessoa pessoa2 = new Pessoa();
+        Pessoas pessoa2 = new Pessoas();
         pessoa2.nome = "Carlos";
         pessoa2.idade = 33;
 

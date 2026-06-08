@@ -15,7 +15,6 @@ class Carro{
     }
 }
 
-
 public class ExercicioCarro {
     public static void main(String[] args) {
         Carro carro = new Carro();
@@ -24,5 +23,6 @@ public class ExercicioCarro {
         carro.cor = "Cinza";
         carro.anoFabricacao = 2026;
         carro.exibirFichaTecnicaCarro();
+
     }
 }
