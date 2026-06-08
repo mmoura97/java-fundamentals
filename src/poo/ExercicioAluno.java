@@ -2,7 +2,7 @@ class Aluno {
     String nome;
     int idade;
 
-    void ExibirAluno() {
+    void exibirAluno() {
         System.out.println("Nome do Aluno: " + nome);
         System.out.println("Idade do Aluno: " + idade);
     }
@@ -16,6 +16,6 @@ public class ExercicioAluno {
         ficha.nome = "Maria";
         ficha.idade = 24;
 
-        ficha.ExibirAluno();
+        ficha.exibirAluno();
     }
 }
